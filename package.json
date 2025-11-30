@@ -1,6 +1,17 @@
 {
-  "dependencies": {
-    "ts-node": "^10.9.2",
+  "name": "course-modern-web-development-without-assembly-and-transpilation",
+  "version": "1.0.0",
+  "description": "Материалы курса Современная веб-разработка без сборки и транспиляции",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsx server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^4.20.6",
     "typescript": "^5.9.3"
   }
 }
