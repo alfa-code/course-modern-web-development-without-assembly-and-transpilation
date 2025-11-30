@@ -5,5 +5,5 @@
 Запуск сервера
 
 ```js
-node server.mjs
+npx tsx server.ts
 ```
